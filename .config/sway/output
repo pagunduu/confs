@@ -1,0 +1,16 @@
+output * bg "$HOME/confs/debgruv.png" fill 
+
+output "DP-2" {
+	mode 1920x1080@120Hz
+	pos 0 0
+}
+
+output "eDP-1" {
+	pos 1920 0
+	scale 1.25
+}
+
+output "DP-1" {
+	mode 1920x1080@120Hz
+	pos 3456 0
+}
