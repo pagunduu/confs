@@ -9,7 +9,7 @@ set $down j
 set $up k
 set $right l
 set $term footclient
-set $menu bemenu-run -i -l 5 --fn "monospace 12"
+set $menu wmenu-run -i -f "monospace 12"
 
 include /etc/sway/config-vars.d/*
 
