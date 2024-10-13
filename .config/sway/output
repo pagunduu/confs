@@ -1,4 +1,4 @@
-output * bg "$HOME/confs/debgruv.png" fill 
+output * bg "$HOME/confs/archgruv.png" fill 
 
 output "DP-2" {
 	mode 1920x1080@120Hz
