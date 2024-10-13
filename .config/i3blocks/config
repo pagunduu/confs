@@ -1,0 +1,14 @@
+command=~/.local/bin/$BLOCK_NAME
+separator_block_width=15
+
+[sb-pkg]
+interval=7200
+
+[sb-vol]
+interval=once
+
+[sb-clk]
+interval=60
+
+[sb-cal]
+interval=86400
