@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=/usr/bin/xcompmgr
+Name=xcompmgr
+Comment=sample X compositing manager
+Type=Application
