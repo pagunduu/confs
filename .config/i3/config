@@ -10,6 +10,8 @@ set $right l
 floating_modifier Mod4
 tiling_drag modifier titlebar
 
+bindsym Mod1+Ctrl+l exec --no-startup-id i3lock -c 282828
+
 bindsym Mod4+Return exec --no-startup-id i3-sensible-terminal
 bindsym Mod4+q kill
 

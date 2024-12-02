@@ -1,0 +1,5 @@
+Read this before you install the dotfiles.
+
+1. Clone the repo.
+2. Create a directory for xfce4 colorscheme: `mkdir -p ~/.local/share/xfce4/terminal/colorschemes`.
+3. Run stow to copy the dotfiles to respective places, `stow .`.
